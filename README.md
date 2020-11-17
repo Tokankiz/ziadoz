@@ -4,9 +4,7 @@ I'm Jamie York, a web software engineer.
 I build web software applications using PHP, MySQL, HTML, CSS, JavaScript and Ansible. I also like dabbling with Go.
 
 #### Contact
-- 🔗 [Website](https://www.jamieyork.net/)
-- 🐦 [Twitter](https://twitter.com/jamieyork)
-- 📥 [Email](mailto:me@jamieyork.net)
+🔗 [Website](https://www.jamieyork.net/) 🐦 [Twitter](https://twitter.com/jamieyork) 📥 [Email](mailto:me@jamieyork.net)
 
 <!--
 **ziadoz/ziadoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
