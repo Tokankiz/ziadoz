@@ -3,7 +3,7 @@ I'm Jamie York, a web software engineer.
 
 I build web software applications using PHP, MySQL, HTML, CSS, JavaScript and Ansible. I also like dabbling with Go.
 
-#### Contact ✉️
+#### Contact
 - 🔗 [Website](https://www.jamieyork.net/)
 - 🐦 [Twitter](https://twitter.com/jamieyork)
 - 📥 [Email](mailto:me@jamieyork.net)
